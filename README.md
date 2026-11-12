@@ -1,4 +1,4 @@
-# Flexy Lite
+# MartStore
 
 Inventory management for grocery stores: a public product list with stock totals, and superuser-only screens to add, edit and delete products. Staff accounts have profiles with avatars.
 
